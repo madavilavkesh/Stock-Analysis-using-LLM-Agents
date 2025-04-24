@@ -1,7 +1,3 @@
-# Stock-Analysis-using-LLM-Agents
-
-
-```markdown
 # Stock Analysis using LLM Agents
 
 This project leverages **Large Language Models (LLMs)** and **autogen agents** for automated stock analysis. It performs financial data retrieval, news scraping, and generates comprehensive financial reports using AI agents. The entire process is orchestrated through a **Streamlit** web interface for easy interaction.
@@ -75,13 +71,7 @@ Visit `http://localhost:8501` in your browser to interact with the app.
 - `.env`: Stores environment variables such as API keys.
 - `utils/`: Contains utility functions for reviews and agent management.
 
-## Contributing
-
-Feel free to fork the repository, open issues, or submit pull requests. Contributions are always welcome!
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-This `README.md` file includes all the key aspects of the project such as features, setup instructions, usage, and the tech stack. It's structured to give contributors and users clear instructions on how to get started.
